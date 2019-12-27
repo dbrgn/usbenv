@@ -339,9 +339,9 @@
  (component bf10b77e-1ddb-43e5-b166-0670b633c975
   (lib_component 05a69540-280b-4f25-b5a2-5d732e11aaf9)
   (lib_variant bc512302-b7ae-4551-880f-ac98f6dc8dac)
-  (lib_device none)
+  (lib_device 5594db74-ad1d-4fca-a5a9-faca61c43c09)
   (name "U1") (value "{{COMPONENT or DEVICE}}")
-  (attribute "MANUFACTURER" (type string) (unit none) (value "AI Tinker"))
+  (attribute "MANUFACTURER" (type string) (unit none) (value "Ai-Thinker"))
   (attribute "PARTNUMBER" (type string) (unit none) (value "ESP-12S"))
   (signal 0f540faf-4883-484a-a9ef-c992fd5ecd39 (net 50ddae11-706a-46b2-8749-f4309424bfb7))
   (signal 13a16c86-86f9-4122-abea-d52b35688b5c (net a0bc1be9-76c6-4466-9f4d-f31f5e25ac30))
