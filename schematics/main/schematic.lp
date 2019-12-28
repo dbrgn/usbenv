@@ -600,7 +600,7 @@
   )
  )
  (netsegment cd0c352e-6fb1-4ad6-b4b6-9f857f26b7e1
-  (net 9b40ff13-8435-4716-ba4e-6c7f7dc3eb99)
+  (net c4281032-7443-4e38-9b74-50af24fe430c)
   (junction d073ceb3-b06c-4ab8-98f4-dc3cb5b60488 (position 220.98 137.16))
   (junction e4351826-8958-4835-add6-fc1820587676 (position 220.98 134.62))
   (line 52234e80-b534-4b40-bb43-89820a84b2d6 (width 0.15875)
